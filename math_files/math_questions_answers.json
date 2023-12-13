@@ -1,0 +1,22 @@
+{
+    "Evaluate the definite integral from 0 to 5 of 2x dx. The multiple choice options are α: 21, β: 22, γ: 23, δ: 24, ε: 25. Respond by simply answering α, β, γ, δ, or ε." : "ε",
+    "Evaluate the definite integral from 3 to 6 of x^2 dx. The multiple choice options are α: 62, β: 63, γ: 64, δ: 65, ε: 66. Respond by simply answering α, β, γ, δ, or ε.": "β",
+    "Evaluate the definite integral from -2 to 4 of (-x - 3) dx. The multiple choice options are α: -26, β: -25, γ: -24, δ: -23, ε: -22. Respond by simply answering α, β, γ, δ, or ε.": "γ",
+    "Evaluate the definite integral from 0 to π of sin(x) dx. The multiple choice options are α: -2, β: -1, γ: 0, δ: 1, ε: 2. Respond by simply answering α, β, γ, δ, or ε.": "ε",
+    "Evaluate the definite integral from -π/2 to 0 of -cos(x) dx. The multiple choice options are α: -4, β: -3, γ: -2, δ: -1, ε: 0. Respond by simply answering α, β, γ, δ, or ε.": "δ",
+    "Evaluate the definite integral from -1 to 7 of (3x^2 -4x + 2) dx. The multiple choice options are α: 261, β: 262, γ: 263, δ: 264, ε: 265. Respond by simply answering α, β, γ, δ, or ε." : "δ",
+    "Evaluate the definite integral from 0 to 9 of sqrt(x) dx. The multiple choice options are α: 15, β: 16, γ: 17, δ: 18, ε: 19. Respond by simply answering α, β, γ, δ, or ε." : "δ",
+    "Evaluate the definite integral from -6 to 0 of x^2 / 2 dx. The multiple choice options are α: 36, β: 37, γ: 38, δ: 39, ε: 40. Respond by simply answering α, β, γ, δ, or ε." : "α",
+    "Evaluate the definite integral from 3 to 4 of sin^2 (x) + cos^2 (x) dx. The multiple choice options are α: -1, β: 0, γ: 1, δ: 2, ε: 3. Respond by simply answering α, β, γ, δ, or ε." : "γ",
+    "Evaluate the definite integral from -3 to 3 of (x+1)(x-1) dx. The multiple choice options are α: 11, β: 12, γ: 13, δ: 14, ε: 15. Respond by simply answering α, β, γ, δ, or ε." : "β",
+    "What is the smallest integer root of 3x^2 + 4x - 4? The multiple choice options are α: -2, β: -1, γ: 0, δ: 1, ε: 2. Respond by simply answering α, β, γ, δ, or ε." : "α",
+    "What is the smallest integer root of 4x^2 - 29x + 7? The multiple choice options are α: 5, β: 6, γ: 7, δ: 8, ε: 9. Respond by simply answering α, β, γ, δ, or ε." : "γ",
+    "What is the smallest integer root of -4x^2 - 5x + 21? The multiple choice options are α: -5, β: -4, γ: -3, δ: -2, ε: -1. Respond by simply answering α, β, γ, δ, or ε." : "γ",
+    "What is the smallest integer root of 2x^2 - 3x - 65? The multiple choice options are α: -7, β: -6, γ: -5, δ: -4, ε: -3. Respond by simply answering α, β, γ, δ, or ε." : "γ",
+    "What is the smallest integer root of -3x^2 + 14x - 8? The multiple choice options are α: 3, β: 4, γ: 5, δ: 6, ε: 7. Respond by simply answering α, β, γ, δ, or ε." : "β",
+    "What is the smallest integer root of -x^2 + 3x - 2? The multiple choice options are α: -3, β: -2, γ: -1, δ: 0, ε: 1. Respond by simply answering α, β, γ, δ, or ε." : "ε",
+    "What is the smallest integer root of x^2 + 10x + 0? The multiple choice options are α: -13, β: -12, γ: -11, δ: -10, ε: -9. Respond by simply answering α, β, γ, δ, or ε." : "δ",
+    "What is the smallest integer root of -4x^2 + 15x + 19? The multiple choice options are α: -2, β: -1, γ: 0, δ: 1, ε: 2. Respond by simply answering α, β, γ, δ, or ε." : "β",
+    "What is the smallest integer root of -2x^2 + 12x - 10? The multiple choice options are α: 0, β: 1, γ: 2, δ: 3, ε: 4. Respond by simply answering α, β, γ, δ, or ε." : "β",
+    "What is the smallest integer root of -5x^2 + 31x - 6? The multiple choice options are α: 2, β: 3, γ: 4, δ: 5, ε: 6. Respond by simply answering α, β, γ, δ, or ε." : "ε"
+}

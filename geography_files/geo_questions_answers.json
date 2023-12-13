@@ -1,0 +1,22 @@
+{
+    "What is the capital of Slovakia?": ["Bratislava", "Bratislavia"],
+    "What is the capital of Estonia?": ["Tallinn", "Tallin"],
+    "What is the capital of Uruguay?": ["Montevideo", "Montevidéo"],
+    "What is the capital of Mongolia?": ["Ulaanbaatar", "Ulan Bator"],
+    "What is the capital of Albania?": ["Tirana", "Tirane"],
+    "What is the capital of Kyrgyzstan?": ["Bishkek", "Biskek"],
+    "What is the capital of Moldova?": ["Chisinau", "Kishinev"],
+    "What is the capital of Laos?": ["Vientiane", "Viengchan"],
+    "What is the capital of Belarus?": ["Minsk", "Mensk"],
+    "What is the capital of Oman?": ["Muscat", "Masqat"],
+    "What is the largest province in Argentina by area?": ["Buenos Aires"],
+    "What is the largest region in Chile by area?": ["Magallanes", "Antártica", "Chilena"],
+    "What is the largest state in South Africa by area?": ["Northern Cape"],
+    "What is the largest region in New Zealand by area?": ["Canterbury"],
+    "What is the largest island in Japan by area?": ["Honshu"],
+    "What is the largest oblast in Ukraine by area?": ["Odesa"],
+    "What is the largest region in Peru by area?": ["Loreto"],
+    "What is the largest district in Sri Lanka by area?": ["Anuradhapura"],
+    "What is the largest region in Italy by area?": ["Sicily", "Sicilia"],
+    "What is the largest island in the Bahamas by area?": ["Andros", "Habacoa", "Babucca"]
+}
