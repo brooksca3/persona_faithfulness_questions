@@ -1,1 +1,1 @@
-# Anonymized repo to share questions for persona_faithfulness experiments
+# Repo to share questions for persona_faithfulness experiments
